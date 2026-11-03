@@ -1,0 +1,8 @@
+Src/app_cli.c:138:13:cli_puts	12	static,ignoring_inline_asm
+Src/app_cli.c:430:14:append_faults	28	static
+Src/app_cli.c:296:12:parse_ms	24	static
+Src/app_cli.c:891:13:cmd_rate	136	static,ignoring_inline_asm
+Src/app_cli.c:1044:13:cmd_execute.constprop	792	static,ignoring_inline_asm
+Src/app_cli.c:1364:6:APP_CLI_UartIrq	4	static,ignoring_inline_asm
+Src/app_cli.c:1412:6:MC_APP_BootHook	136	static,ignoring_inline_asm
+Src/app_cli.c:1438:6:MC_APP_PostMediumFrequencyHook_M1	264	static,ignoring_inline_asm

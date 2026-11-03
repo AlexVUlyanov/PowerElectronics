@@ -1,0 +1,2 @@
+Src/app_tuning.c:12:9:APP_TUNING_OpenLoopCurrentDigits	0	static
+Src/app_tuning.c:24:6:APP_TUNING_Apply	24	static
